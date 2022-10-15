@@ -1,0 +1,13 @@
+C:\Users\trilo\source\repos\FinalProject_dsdp\FinalProject_dsdp\bin\Debug\netcoreapp3.1\FinalProject_dsdp.exe
+C:\Users\trilo\source\repos\FinalProject_dsdp\FinalProject_dsdp\bin\Debug\netcoreapp3.1\FinalProject_dsdp.deps.json
+C:\Users\trilo\source\repos\FinalProject_dsdp\FinalProject_dsdp\bin\Debug\netcoreapp3.1\FinalProject_dsdp.runtimeconfig.json
+C:\Users\trilo\source\repos\FinalProject_dsdp\FinalProject_dsdp\bin\Debug\netcoreapp3.1\FinalProject_dsdp.runtimeconfig.dev.json
+C:\Users\trilo\source\repos\FinalProject_dsdp\FinalProject_dsdp\bin\Debug\netcoreapp3.1\FinalProject_dsdp.dll
+C:\Users\trilo\source\repos\FinalProject_dsdp\FinalProject_dsdp\bin\Debug\netcoreapp3.1\FinalProject_dsdp.pdb
+C:\Users\trilo\source\repos\FinalProject_dsdp\FinalProject_dsdp\obj\Debug\netcoreapp3.1\FinalProject_dsdp.csprojAssemblyReference.cache
+C:\Users\trilo\source\repos\FinalProject_dsdp\FinalProject_dsdp\obj\Debug\netcoreapp3.1\FinalProject_dsdp.AssemblyInfoInputs.cache
+C:\Users\trilo\source\repos\FinalProject_dsdp\FinalProject_dsdp\obj\Debug\netcoreapp3.1\FinalProject_dsdp.AssemblyInfo.cs
+C:\Users\trilo\source\repos\FinalProject_dsdp\FinalProject_dsdp\obj\Debug\netcoreapp3.1\FinalProject_dsdp.csproj.CoreCompileInputs.cache
+C:\Users\trilo\source\repos\FinalProject_dsdp\FinalProject_dsdp\obj\Debug\netcoreapp3.1\FinalProject_dsdp.dll
+C:\Users\trilo\source\repos\FinalProject_dsdp\FinalProject_dsdp\obj\Debug\netcoreapp3.1\FinalProject_dsdp.pdb
+C:\Users\trilo\source\repos\FinalProject_dsdp\FinalProject_dsdp\obj\Debug\netcoreapp3.1\FinalProject_dsdp.genruntimeconfig.cache
